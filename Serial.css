@@ -6,6 +6,11 @@
 #Series1{
     text-align: center;
 }
+#ImagenLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 #Index{
     text-align: center;
 }
