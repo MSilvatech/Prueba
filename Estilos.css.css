@@ -16,11 +16,23 @@
 .menu{
     margin-left: 200px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .menu a{
     /* margin-left: 50px; */
-    margin-left: 10px;
+    margin-left: 30px;
 
 }
+.navegador{list-style: none;
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-around;
+    padding: 0%;
+background-color: #ffc505;
+        width: 90%;
+        max-width: 1000px;
+        margin: auto;
+        display: flex;
+        justify-content: space-around;
+    }
